@@ -1,17 +1,17 @@
 {
-  "name": "@bigbang-sdk/deep-equal",
+  "name": "@bb-sdk/deep-equal",
   "description": "A library for deep equality comparison using fast-deep-equal and superjson",
-  "homepage": "https://github.com/bigbang-sdk/deep-equal",
+  "homepage": "https://github.com/beepbop-sdk/deep-equal",
   "keywords": [
     "deep-equal",
     "fast-deep-equal",
     "superjson"
   ],
-  "author": "Bigbang",
+  "author": "Beepbop",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bigbang-sdk/deep-equal.git"
+    "url": "https://github.com/beepbop-sdk/deep-equal.git"
   },
   "main": "dist/index.js",
   "files": [
@@ -30,7 +30,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@bigbang-sdk/deep-sort": "^0.0.1",
+    "@bb-sdk/deep-sort": "^0.0.1",
     "fast-deep-equal": "^3.1.3",
     "superjson": "^2.2.6"
   }

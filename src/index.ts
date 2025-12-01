@@ -1,6 +1,6 @@
 import deepEqual from "fast-deep-equal";
 import SuperJSON from "superjson";
-import { deepSort } from "@bigbang-sdk/deep-sort";
+import { deepSort } from "@bb-sdk/deep-sort";
 
 /**
  * Normalize structures so deep-equal works:
