@@ -1,7 +1,7 @@
 {
-  "name": "@bb-sdk/deep-equal",
+  "name": "@bb-labs/deep-equal",
   "description": "A library for deep equality comparison using fast-deep-equal and superjson",
-  "homepage": "https://github.com/beepbop-sdk/deep-equal",
+  "homepage": "https://github.com/beepbop-labs/deep-equal",
   "keywords": [
     "deep-equal",
     "fast-deep-equal",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/beepbop-sdk/deep-equal.git"
+    "url": "https://github.com/beepbop-labs/deep-equal.git"
   },
   "main": "dist/index.js",
   "files": [
